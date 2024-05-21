@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072221059527",
+    "project_id": "itbuddy-c683b",
+    "storage_bucket": "itbuddy-c683b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072221059527:android:7e5c6c47061212f8b081e2",
+        "android_client_info": {
+          "package_name": "com.keells_rewamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072221059527-edtlhc0ru98og55lvoe77jom5502a1el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9KHjrfcjeL-oqh7MBzVL6yz3j9XXQIvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072221059527-edtlhc0ru98og55lvoe77jom5502a1el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

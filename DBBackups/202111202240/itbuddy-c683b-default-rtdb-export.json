@@ -1,0 +1,31 @@
+{
+  "events" : {
+    "event23238o348993" : {
+      "color" : "red",
+      "dateTime" : "Tue, Apr 28 • 11:10 AM",
+      "markDate" : "2021-11-17",
+      "title" : "Lecture: CCS200: Mathematics for computing 9.00 a.m. (2 hours)"
+    },
+    "event3947893643587" : {
+      "color" : "blue",
+      "dateTime" : "Sun, Apr 25 • 10:15 AM",
+      "markDate" : "2021-11-16",
+      "title" : "Lecture: CCS210: Data Structures and Algorithms 9.00 a.m. (2 hours)"
+    },
+    "event394789378263786" : {
+      "color" : "blue",
+      "dateTime" : "Fri, Apr 29 • 10:00 PM",
+      "markDate" : "2021-11-19",
+      "title" : "Lecture: CCS366: Database management systems 9.00 a.m. (2 hours)"
+    }
+  },
+  "users" : {
+    "students" : {
+      "-MoPmHJoW2_OVL5d33xZ" : {
+        "email" : "shihara@gmail.com",
+        "fullName" : "shihara",
+        "password" : "classified23"
+      }
+    }
+  }
+}

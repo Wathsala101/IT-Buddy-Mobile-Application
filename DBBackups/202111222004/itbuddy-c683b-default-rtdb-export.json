@@ -1,0 +1,244 @@
+{
+  "announcements" : {
+    "announcement12321323" : {
+      "date" : "Thu, Sep 30 • 12:00 PM",
+      "image" : "https://dubeat.com/wp-content/uploads/2020/07/1254CF0C-74DA-41F2-846B-4899D3871151-1-1024x1019.jpeg",
+      "platform" : "Zoom platform",
+      "title" : "Ecolympiad-Submisssion Deadline"
+    },
+    "announcement238267826" : {
+      "date" : "Thu, Sep 25 • 2:15 PM",
+      "image" : "http://www.accesssecurity.com/wp-content/uploads/2019/10/istockphoto-943065362-612x612.jpg",
+      "platform" : "Zoom platform",
+      "title" : "CCS212 - Cloud Computing Special Lecture "
+    },
+    "announcement382932321" : {
+      "date" : "Thu, Sep 23 • 6:30 PM",
+      "image" : "https://www.theengineeringprojects.com/wp-content/uploads/2021/03/Arduino-Uno-Library-for-Proteus-5.jpeg",
+      "platform" : "Zoom platform",
+      "title" : "Arduino in Proteus Online Workshop"
+    }
+  },
+  "canteen" : {
+    "beverages" : {
+      "beverage1234254355" : {
+        "name" : "Cocacolla",
+        "price" : 60
+      },
+      "beverage1384328435" : {
+        "name" : "Seven up",
+        "price" : 40
+      },
+      "beverage92489981289947" : {
+        "name" : "Plain tea",
+        "price" : 10
+      },
+      "beverage9348493493" : {
+        "name" : "Tea",
+        "price" : 15
+      }
+    },
+    "foods" : {
+      "food08437874834320" : {
+        "name" : "Ice cream",
+        "price" : 120
+      },
+      "food2932837292323" : {
+        "name" : "Rice and Curry",
+        "price" : 250
+      },
+      "food298320479812" : {
+        "name" : "noodles",
+        "price" : 50
+      },
+      "food3490200423235" : {
+        "name" : "Fish bun",
+        "price" : 40
+      },
+      "food923204760593" : {
+        "name" : "Egg bun",
+        "price" : 70
+      }
+    },
+    "grocery" : {
+      "grocery344342132" : {
+        "name" : "Pencil",
+        "price" : 10
+      },
+      "grocery46423455646" : {
+        "name" : "Shampoo",
+        "price" : 15
+      },
+      "grocery546234535" : {
+        "name" : "Soap",
+        "price" : 40
+      },
+      "grocery54957473" : {
+        "name" : "Pen",
+        "price" : 20
+      },
+      "grocery6565653256" : {
+        "name" : "Milk Packet",
+        "price" : 60
+      },
+      "grocery7734523435" : {
+        "name" : "Tooth paste",
+        "price" : 45
+      }
+    }
+  },
+  "directory" : {
+    "admin" : {
+      "admin469893344" : {
+        "designation" : "Financial Administrator",
+        "email" : "Nawodya@gmail.com",
+        "name" : "Mr Nawodya Rajapaksha",
+        "phone" : "076 334 0067"
+      },
+      "admin68864646" : {
+        "designation" : "IT School Coordinator",
+        "email" : "Ravindu@gmail.com",
+        "name" : "Mr Ravindu Amarathunga",
+        "phone" : "071 222 5267 "
+      },
+      "admin857939034" : {
+        "designation" : "IT Administrator",
+        "email" : "Minoli@gmail.com",
+        "name" : "Ms Minoli Kiriella",
+        "phone" : "077 004 5062"
+      }
+    },
+    "club" : {
+      "club0398493545" : {
+        "club" : "Green Army",
+        "designation" : "Chairmain",
+        "email" : "chenukas@gmail.com",
+        "name" : "Mr Chenuka Samod",
+        "phone" : "076 334 0067"
+      },
+      "club2943895334" : {
+        "club" : "SEDS",
+        "designation" : "Chairman",
+        "email" : "Amarathunga@gmail.com",
+        "name" : "Mr Lakshan Amarathunga",
+        "phone" : "076 334 0067"
+      },
+      "club438434343" : {
+        "club" : "IEEE",
+        "designation" : "Chairman",
+        "email" : "Kavinda@gmail.com",
+        "name" : "Mr Kavinda Herath",
+        "phone" : "076 334 0067 "
+      }
+    },
+    "other" : {
+      "other23847863434" : {
+        "designation" : "Cheaf Security Officer",
+        "email" : "Sagala@gmail.com",
+        "name" : "Mr Sagala Kariyawasam",
+        "phone" : "071 232 4460"
+      },
+      "other393449734743" : {
+        "designation" : "Hostel Warden",
+        "email" : "roshnthag01@gmail.com",
+        "name" : "Mr Roshntha Gamage",
+        "phone" : "077 114 5568 "
+      },
+      "other394873979453465" : {
+        "designation" : "Librarian",
+        "email" : "Pathum@gmail.com",
+        "name" : "Mr Pathum Nissanka",
+        "phone" : "076 339 0067 "
+      }
+    },
+    "staff" : {
+      "staff04943434783" : {
+        "designation" : "Head of IT School",
+        "email" : "Mangala@gmail.com",
+        "name" : "Dr Mangala Karunarathna",
+        "phone" : "072 644 4567"
+      },
+      "staff4978538734" : {
+        "designation" : "TA",
+        "email" : "wathsala@gmail.com",
+        "name" : "Ms Wathsala Divyanjalee",
+        "phone" : "078 256 5561"
+      },
+      "staff604058939" : {
+        "designation" : "Head of Business School",
+        "email" : "Rajitha@gmail.com",
+        "name" : "Dr Rajitha Balasooriya",
+        "phone" : "075 634 6667"
+      }
+    }
+  },
+  "events" : {
+    "event23238o348993" : {
+      "color" : "green",
+      "dateTime" : "Tue, Apr 28 • 11:10 AM",
+      "markDate" : "2021-11-17",
+      "title" : "Lecture: CCS200: Mathematics for computing 9.00 a.m. (2 hours)"
+    },
+    "event3947893643587" : {
+      "color" : "green",
+      "dateTime" : "Sun, Apr 25 • 10:15 AM",
+      "markDate" : "2021-11-16",
+      "title" : "Lecture: CCS210: Data Structures and Algorithms 9.00 a.m. (2 hours)"
+    },
+    "event394789378263786" : {
+      "color" : "blue",
+      "dateTime" : "Fri, Apr 29 • 10:00 PM",
+      "markDate" : "2021-11-19",
+      "title" : "Lecture: CCS366: Database management systems 9.00 a.m. (2 hours)"
+    }
+  },
+  "progress" : {
+    "progress32899372893323" : {
+      "batchTopGpa" : "4.0, 4.0, 4.0, 3.8",
+      "gpa" : "3.4, 4.0, 3.5, 3.8",
+      "studentemail" : "shihara@gmail.com"
+    },
+    "progress438438943498" : {
+      "batchTopGpa" : "4.0, 4.0, 4.0, 3.8",
+      "gpa" : "2.0, 2.3, 3.0, 2.6",
+      "studentemail" : "dilshan@gmail.com"
+    }
+  },
+  "resourceMaterials" : {
+    "materials2394349734" : {
+      "aurther" : "Michael J. Halvorson",
+      "description" : "Personal Computing and the Learn to Program Movement in America",
+      "image" : "https://images-na.ssl-images-amazon.com/images/I/51K3xCxO1yL._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
+      "title" : "Code Nation"
+    },
+    "materials394394893487412" : {
+      "aurther" : "Peter A. Freeman, W.Richards",
+      "description" : "Building a Foundation for Modern  Computing",
+      "image" : "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574749129l/48932815._SX318_.jpg",
+      "title" : "Computing and the National  Science Foundation"
+    }
+  },
+  "users" : {
+    "admin" : {
+      "admin01" : {
+        "email" : "admin@gmail.com",
+        "fullName" : "admin",
+        "password" : "classified23"
+      }
+    },
+    "staff" : {
+      "staff934478973498" : {
+        "email" : "shihara@gmail.com",
+        "fullName" : "shihara",
+        "password" : "classified23"
+      }
+    },
+    "students" : {
+      "-MoPmHJoW2_OVL5d33xZ" : {
+        "email" : "shihara@gmail.com",
+        "fullName" : "shihara",
+        "password" : "classified23"
+      }
+    }
+  }
+}

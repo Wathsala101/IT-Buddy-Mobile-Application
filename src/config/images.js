@@ -1,0 +1,41 @@
+import splashScreen from './../assets/images/splash_Screen.png';
+import backgroundImage from './../assets/images/otherBackground.png';
+import carouselBackground from './../assets/images/carousel_background.png';
+import topBannerContainer from './../assets/images/topbar_banner_background.png';
+import staffBannerLabelImage from './../assets/images/staffBannerLabelImage.png';
+import adminBannerLabelImage from './../assets/images/adminBannerLabelImage.png';
+import communitiesBannerLabelImage from './../assets/images/communitiesBannerLabelImage.png';
+import linkBannerLabelImage from './../assets/images/linkBannerLabelImage.png';
+import studyCornerBanner from './../assets/images/studyCornerBanner.png';
+import serviceTabBanner from './../assets/images/serviceTabBanner.png';
+import libraryBanner from './../assets/images/libraryBanner.png';
+import KHscreenBackground from './../assets/images/KHscreenBackground.png';
+import udemyLogo from './../assets/images/udemyLogo.png';
+import courseraLogo from './../assets/images/courseraLogo.png';
+import canteenBanner from './../assets/images/canteenBanner.png';
+import surveyBackground from './../assets/images/surveyBackground.png';
+import serveyCardBackground from './../assets/images/serveyCardBackground.png';
+import shuttleBanner from './../assets/images/shuttleBanner.png';
+import timetable from './../assets/images/timetable.png';
+
+export default class AppImages {
+  static splashScreen = splashScreen;
+  static backgroundImage = backgroundImage;
+  static carouselBackground = carouselBackground;
+  static topBannerContainer = topBannerContainer;
+  static staffBannerLabelImage = staffBannerLabelImage;
+  static adminBannerLabelImage = adminBannerLabelImage;
+  static communitiesBannerLabelImage = communitiesBannerLabelImage;
+  static linkBannerLabelImage = linkBannerLabelImage;
+  static studyCornerBanner = studyCornerBanner;
+  static serviceTabBanner = serviceTabBanner;
+  static libraryBanner = libraryBanner;
+  static KHscreenBackground = KHscreenBackground;
+  static udemyLogo = udemyLogo;
+  static courseraLogo = courseraLogo;
+  static canteenBanner = canteenBanner;
+  static surveyBackground = surveyBackground;
+  static serveyCardBackground = serveyCardBackground;
+  static shuttleBanner = shuttleBanner;
+  static timetable = timetable;
+}
